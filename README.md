@@ -20,10 +20,8 @@ Welcome to OGTechCommunity, a dynamic team of passionate tech enthusiasts dedica
 
 - 🌐 Explore our website to learn more about us and our activities: [www.ogtech.in](https://www.ogtech.in)
 
-- 📌 Join the conversation on our Discord server: [Discord Invite Link]
+- 📌 Join the conversation on our Discord server: Coming soon
 
 Whether you're a seasoned tech expert or just starting your journey, everyone is welcome at OGTechCommunity. Come join us in shaping the future of technology!
 
 Let's innovate together! 🚀💻🔬
-
-*(Note: Replace [Discord Invite Link] with the actual invitation link to your Discord server.)*
