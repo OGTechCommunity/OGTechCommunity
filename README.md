@@ -18,13 +18,9 @@ Welcome to OGTechCommunity, a dynamic team of passionate tech enthusiasts dedica
 
 ## Get Involved
 
-- 🌐 Explore our website to learn more about us and our activities: [www.ogtechcommunity.com](https://www.ogtechcommunity.com)
+- 🌐 Explore our website to learn more about us and our activities: [www.ogtech.in](https://www.ogtech.in)
 
 - 📌 Join the conversation on our Discord server: [Discord Invite Link]
-
-- 🐦 Follow us on Twitter: [@OGTechCommunity](https://twitter.com/OGTechCommunity)
-
-- 📸 Connect with us on Instagram: [@OGTechCommunity](https://www.instagram.com/OGTechCommunity)
 
 Whether you're a seasoned tech expert or just starting your journey, everyone is welcome at OGTechCommunity. Come join us in shaping the future of technology!
 
